@@ -1,0 +1,17 @@
+D:\project\Sashi\FHIR\FhirLiquidGenerator\bin\Debug\net9.0\FhirLiquidGenerator.exe
+D:\project\Sashi\FHIR\FhirLiquidGenerator\bin\Debug\net9.0\FhirLiquidGenerator.deps.json
+D:\project\Sashi\FHIR\FhirLiquidGenerator\bin\Debug\net9.0\FhirLiquidGenerator.runtimeconfig.json
+D:\project\Sashi\FHIR\FhirLiquidGenerator\bin\Debug\net9.0\FhirLiquidGenerator.dll
+D:\project\Sashi\FHIR\FhirLiquidGenerator\bin\Debug\net9.0\FhirLiquidGenerator.pdb
+D:\project\Sashi\FHIR\FhirLiquidGenerator\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\project\Sashi\FHIR\FhirLiquidGenerator\obj\Debug\net9.0\FhirLiquidGenerator.csproj.AssemblyReference.cache
+D:\project\Sashi\FHIR\FhirLiquidGenerator\obj\Debug\net9.0\FhirLiquidGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Sashi\FHIR\FhirLiquidGenerator\obj\Debug\net9.0\FhirLiquidGenerator.AssemblyInfoInputs.cache
+D:\project\Sashi\FHIR\FhirLiquidGenerator\obj\Debug\net9.0\FhirLiquidGenerator.AssemblyInfo.cs
+D:\project\Sashi\FHIR\FhirLiquidGenerator\obj\Debug\net9.0\FhirLiquidGenerator.csproj.CoreCompileInputs.cache
+D:\project\Sashi\FHIR\FhirLiquidGenerator\obj\Debug\net9.0\FhirLiqu.D5E44DE3.Up2Date
+D:\project\Sashi\FHIR\FhirLiquidGenerator\obj\Debug\net9.0\FhirLiquidGenerator.dll
+D:\project\Sashi\FHIR\FhirLiquidGenerator\obj\Debug\net9.0\refint\FhirLiquidGenerator.dll
+D:\project\Sashi\FHIR\FhirLiquidGenerator\obj\Debug\net9.0\FhirLiquidGenerator.pdb
+D:\project\Sashi\FHIR\FhirLiquidGenerator\obj\Debug\net9.0\FhirLiquidGenerator.genruntimeconfig.cache
+D:\project\Sashi\FHIR\FhirLiquidGenerator\obj\Debug\net9.0\ref\FhirLiquidGenerator.dll

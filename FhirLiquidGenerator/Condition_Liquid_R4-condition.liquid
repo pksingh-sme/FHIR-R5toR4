@@ -1,0 +1,20 @@
+{% mergeDiff msg -%}
+{% if msg.resourceType == "Condition" -%}
+  {% assign fields = "" | split: "" %}
+  {% if msg.participant.actor -%}
+    {% assign fields = fields | push: '"recorder" : {{msg.participant.actor}}' %}
+    {% assign fields = fields | push: '"asserter" : {{msg.participant.actor}}' %}
+  {% endif -%}
+  {% if msg.evidence -%}
+    {% assign fields = fields | push: '"evidence.code" : {{msg.evidence}}' %}
+    {% assign fields = fields | push: '"evidence.detail" : {{msg.evidence}}' %}
+  {% endif -%}
+  {% if msg.clinicalStatus -%}
+    {% assign fields = fields | push: '"clinicalStatus" : {{msg.clinicalStatus | first}}' %}
+  {% endif -%}
+  {% if msg.category -%}
+    {% assign fields = fields | push: '"category" : {{msg.category | first}}' %}
+  {% endif -%}
+  {{ fields | join: "," }}
+{% endif %}
+{% endmergeDiff %}
