@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FhirLiquidGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+607ce4d8edf0e95406a0fda2c01ddebce89edc96")]
 [assembly: System.Reflection.AssemblyProductAttribute("FhirLiquidGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FhirLiquidGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
